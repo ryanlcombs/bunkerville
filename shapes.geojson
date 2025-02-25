@@ -1304,6 +1304,45 @@
       {
         "type": "Feature",
         "properties": { 
+          "name": "Parley Hunt",
+          "sort": "Hunt, Parley",
+          "PID": "https://ancestors.familysearch.org/en/KWJ6-RK8",
+          "startDate": 1907,
+          "endDate": 1953,
+            "houseNum":650,
+            "street":"Canal"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+              -114.11749221364572,
+              36.77526742864737
+            ],
+            [
+              -114.11749221364572,
+              36.77514850360582
+            ],
+            [
+              -114.11731193955549,
+              36.77514850360582
+            ],
+            [
+              -114.11731193955549,
+              36.77526742864737
+            ],
+            [
+              -114.11749221364572,
+              36.77526742864737
+            ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
           "name": "Susan Hunt",
           "sort": "Hunt, Susan",
           "PID": "https://ancestors.familysearch.org/en/KWNN-BZS",
