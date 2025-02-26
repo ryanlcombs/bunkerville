@@ -1,1322 +1,1322 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Jesse Waite",
-          "sort": "Waite, Jesse",
-          "PID": "https://ancestors.familysearch.org/en/KWZQ-W5S",
-          "startDate": 1894,
-          "endDate": 1938
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jesse Waite",
+        "sort": "Waite, Jesse",
+        "PID": "https://ancestors.familysearch.org/en/KWZQ-W5S",
+        "startDate": 1894,
+        "endDate": 1938
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.1212417355625,
-                36.773065159152296
-              ],
-              [
-                -114.12187881000486,
-                36.77304407696579
-              ],
-              [
-                -114.12181409085308,
-                36.77215240004962
-              ],
-              [
-                -114.12119706805827,
-                36.77220810154601
-              ],
-              [
-                -114.1212417355625,
-                36.773065159152296
-              ]
+              -114.1212417355625,
+              36.773065159152296
+            ],
+            [
+              -114.12187881000486,
+              36.77304407696579
+            ],
+            [
+              -114.12181409085308,
+              36.77215240004962
+            ],
+            [
+              -114.12119706805827,
+              36.77220810154601
+            ],
+            [
+              -114.1212417355625,
+              36.773065159152296
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annie Cox",
+        "sort": "Cox, Annie",
+        "PID": "https://ancestors.familysearch.org/en/KWZD-PYJ",
+        "startDate": 1885,
+        "endDate": 1920
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Annie Cox",
-          "sort": "Cox, Annie",
-          "PID": "https://ancestors.familysearch.org/en/KWZD-PYJ",
-          "startDate": 1885,
-          "endDate": 1920
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12188751599463,
-                36.773047590338265
-              ],
-              [
-                -114.12241980063354,
-                36.77301597468059
-              ],
-              [
-                -114.1223786262101,
-                36.77211064551162
-              ],
-              [
-                -114.12180972924247,
-                36.77215588042914
-              ],
-              [
-                -114.12188751599463,
-                36.773047590338265
-              ]
+              -114.12188751599463,
+              36.773047590338265
+            ],
+            [
+              -114.12241980063354,
+              36.77301597468059
+            ],
+            [
+              -114.1223786262101,
+              36.77211064551162
+            ],
+            [
+              -114.12180972924247,
+              36.77215588042914
+            ],
+            [
+              -114.12188751599463,
+              36.773047590338265
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mary Ann Hafen",
+        "sort": "Hafen, Mary Ann",
+        "PID": "https://ancestors.familysearch.org/en/KWCX-Q6D",
+        "startDate": 1877,
+        "endDate": 1946
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Mary Ann Hafen",
-          "sort": "Hafen, Mary Ann",
-          "PID": "https://ancestors.familysearch.org/en/KWCX-Q6D",
-          "startDate": 1877,
-          "endDate": 1946
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.1224241536718,
-                36.773019487010146
-              ],
-              [
-                -114.12319611166282,
-                36.772980858544756
-              ],
-              [
-                -114.12315555599329,
-                36.772065432289565
-              ],
-              [
-                -114.12237863559255,
-                36.772107166800865
-              ],
-              [
-                -114.1224241536718,
-                36.773019487010146
-              ]
+              -114.1224241536718,
+              36.773019487010146
+            ],
+            [
+              -114.12319611166282,
+              36.772980858544756
+            ],
+            [
+              -114.12315555599329,
+              36.772065432289565
+            ],
+            [
+              -114.12237863559255,
+              36.772107166800865
+            ],
+            [
+              -114.1224241536718,
+              36.773019487010146
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dudley Leavitt",
+        "sort": "Leavitt, Dudley",
+        "PID": "https://ancestors.familysearch.org/en/KWZD-1PT",
+        "startDate": 1877,
+        "endDate": 1908
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Dudley Leavitt",
-          "sort": "Leavitt, Dudley",
-          "PID": "https://ancestors.familysearch.org/en/KWZD-1PT",
-          "startDate": 1877,
-          "endDate": 1908
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12316858553976,
-                36.77207238675861
-              ],
-              [
-                -114.12320483328554,
-                36.772980858544756
-              ],
-              [
-                -114.12368434483166,
-                36.772938736363415
-              ],
-              [
-                -114.12365016993154,
-                36.772037619545756
-              ],
-              [
-                -114.12316858553976,
-                36.77207238675861
-              ]
+              -114.12316858553976,
+              36.77207238675861
+            ],
+            [
+              -114.12320483328554,
+              36.772980858544756
+            ],
+            [
+              -114.12368434483166,
+              36.772938736363415
+            ],
+            [
+              -114.12365016993154,
+              36.772037619545756
+            ],
+            [
+              -114.12316858553976,
+              36.77207238675861
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ithamar Sprague",
+        "sort": "Sprague, Ithamar",
+        "PID": "https://ancestors.familysearch.org/en/KWZV-JWB",
+        "startDate": 1877,
+        "endDate": 1925
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Ithamar Sprague",
-          "sort": "Sprague, Ithamar",
-          "PID": "https://ancestors.familysearch.org/en/KWZV-JWB",
-          "startDate": 1877,
-          "endDate": 1925
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12369310941452,
-                36.77294926515236
-              ],
-              [
-                -114.124181174433,
-                36.77291066531622
-              ],
-              [
-                -114.12412294561099,
-                36.77200981500796
-              ],
-              [
-                -114.12364585891099,
-                36.772044571961786
-              ],
-              [
-                -114.12369310941452,
-                36.77294926515236
-              ]
+              -114.12369310941452,
+              36.77294926515236
+            ],
+            [
+              -114.124181174433,
+              36.77291066531622
+            ],
+            [
+              -114.12412294561099,
+              36.77200981500796
+            ],
+            [
+              -114.12364585891099,
+              36.772044571961786
+            ],
+            [
+              -114.12369310941452,
+              36.77294926515236
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henry Leavitt",
+        "sort": "Leavitt, Henry",
+        "PID": "https://ancestors.familysearch.org/en/KWCR-31T",
+        "startDate": 1877,
+        "endDate": 1944
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Henry Leavitt",
-          "sort": "Leavitt, Henry",
-          "PID": "https://ancestors.familysearch.org/en/KWCR-31T",
-          "startDate": 1877,
-          "endDate": 1944
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12421201093296,
-                36.771987616376606
-              ],
-              [
-                -114.12426843745762,
-                36.772889307313406
-              ],
-              [
-                -114.12494222308025,
-                36.77286869478695
-              ],
-              [
-                -114.12489391854959,
-                36.77194720201216
-              ],
-              [
-                -114.12421201093296,
-                36.771987616376606
-              ]
+              -114.12421201093296,
+              36.771987616376606
+            ],
+            [
+              -114.12426843745762,
+              36.772889307313406
+            ],
+            [
+              -114.12494222308025,
+              36.77286869478695
+            ],
+            [
+              -114.12489391854959,
+              36.77194720201216
+            ],
+            [
+              -114.12421201093296,
+              36.771987616376606
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joseph I. Earl #2",
+        "sort": "Earl, Joseph I. #2",
+        "PID": "https://ancestors.familysearch.org/en/KWCH-FZJ",
+        "startDate": 1877,
+        "endDate": 1934
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Joseph I. Earl #2",
-          "sort": "Earl, Joseph I. #2",
-          "PID": "https://ancestors.familysearch.org/en/KWCH-FZJ",
-          "startDate": 1877,
-          "endDate": 1934
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12489750571255,
-                36.77194671703991
-              ],
-              [
-                -114.12494369915495,
-                36.77286769229835
-              ],
-              [
-                -114.12560044665871,
-                36.77282550325495
-              ],
-              [
-                -114.12554115646977,
-                36.771909358662285
-              ],
-              [
-                -114.12489750571255,
-                36.77194671703991
-              ]
+              -114.12489750571255,
+              36.77194671703991
+            ],
+            [
+              -114.12494369915495,
+              36.77286769229835
+            ],
+            [
+              -114.12560044665871,
+              36.77282550325495
+            ],
+            [
+              -114.12554115646977,
+              36.771909358662285
+            ],
+            [
+              -114.12489750571255,
+              36.77194671703991
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bertha Wittwer",
+        "sort": "Wittwer, Bertha",
+        "PID": "https://ancestors.familysearch.org/en/KWC1-F22",
+        "startDate": 1881,
+        "endDate": 1937
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Bertha Wittwer",
-          "sort": "Wittwer, Bertha",
-          "PID": "https://ancestors.familysearch.org/en/KWC1-F22",
-          "startDate": 1881,
-          "endDate": 1937
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12560310627102,
-                36.772827583423435
-              ],
-              [
-                -114.12617333941859,
-                36.77279383719069
-              ],
-              [
-                -114.12609563939311,
-                36.77186946216064
-              ],
-              [
-                -114.12554038574467,
-                36.77191096383795
-              ],
-              [
-                -114.12560310627102,
-                36.772827583423435
-              ]
+              -114.12560310627102,
+              36.772827583423435
+            ],
+            [
+              -114.12617333941859,
+              36.77279383719069
+            ],
+            [
+              -114.12609563939311,
+              36.77186946216064
+            ],
+            [
+              -114.12554038574467,
+              36.77191096383795
+            ],
+            [
+              -114.12560310627102,
+              36.772827583423435
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frank Leavitt",
+        "sort": "Leavitt, Frank",
+        "PID": "https://ancestors.familysearch.org/en/KWCX-Q64",
+        "plat": "A",
+        "block": 2,
+        "startDate": 1889,
+        "endDate": 1902
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Frank Leavitt",
-          "sort": "Leavitt, Frank",
-          "PID": "https://ancestors.familysearch.org/en/KWCX-Q64",
-          "plat": "A",
-          "block": 2,
-          "startDate": 1889,
-          "endDate": 1902
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12609823767663,
-                36.77187153651809
-              ],
-              [
-                -114.12613566234316,
-                36.77234230978246
-              ],
-              [
-                -114.12675017589535,
-                36.772308851276776
-              ],
-              [
-                -114.12672816667165,
-                36.77181348337673
-              ],
-              [
-                -114.12609823767663,
-                36.77187153651809
-              ]
+              -114.12609823767663,
+              36.77187153651809
+            ],
+            [
+              -114.12613566234316,
+              36.77234230978246
+            ],
+            [
+              -114.12675017589535,
+              36.772308851276776
+            ],
+            [
+              -114.12672816667165,
+              36.77181348337673
+            ],
+            [
+              -114.12609823767663,
+              36.77187153651809
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Hafen",
+        "sort": "Hafen, Albert",
+        "PID": "https://ancestors.familysearch.org/en/KWC5-119",
+        "startDate": 1900,
+        "endDate": 1940
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Albert Hafen",
-          "sort": "Hafen, Albert",
-          "PID": "https://ancestors.familysearch.org/en/KWC5-119",
-          "startDate": 1900,
-          "endDate": 1940
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.1261408773095,
-                36.772344401596555
-              ],
-              [
-                -114.12617072403415,
-                36.77279383719069
-              ],
-              [
-                -114.1267851012588,
-                36.772764325684264
-              ],
-              [
-                -114.12675540068926,
-                36.772310941853235
-              ],
-              [
-                -114.1261408773095,
-                36.772344401596555
-              ]
+              -114.1261408773095,
+              36.772344401596555
+            ],
+            [
+              -114.12617072403415,
+              36.77279383719069
+            ],
+            [
+              -114.1267851012588,
+              36.772764325684264
+            ],
+            [
+              -114.12675540068926,
+              36.772310941853235
+            ],
+            [
+              -114.1261408773095,
+              36.772344401596555
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edward Bunker Jr.",
+        "sort": "Bunker, Edward Jr.",
+        "PID": "https://ancestors.familysearch.org/en/KWJ8-7FD",
+        "startDate": 1877,
+        "endDate": 1915
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Edward Bunker Jr.",
-          "sort": "Bunker, Edward Jr.",
-          "PID": "https://ancestors.familysearch.org/en/KWJ8-7FD",
-          "startDate": 1877,
-          "endDate": 1915
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12694238175216,
-                36.772767730377026
-              ],
-              [
-                -114.12758067645325,
-                36.772729764423275
-              ],
-              [
-                -114.12755371350146,
-                36.772248959337716
-              ],
-              [
-                -114.12691293042134,
-                36.77228032845352
-              ],
-              [
-                -114.12694238175216,
-                36.772767730377026
-              ]
+              -114.12694238175216,
+              36.772767730377026
+            ],
+            [
+              -114.12758067645325,
+              36.772729764423275
+            ],
+            [
+              -114.12755371350146,
+              36.772248959337716
+            ],
+            [
+              -114.12691293042134,
+              36.77228032845352
+            ],
+            [
+              -114.12694238175216,
+              36.772767730377026
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Abbott",
+        "sort": "Abbott, James",
+        "PID": "https://ancestors.familysearch.org/en/KWCT-ZFD",
+        "startDate": 1900,
+        "endDate": 1944
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "James Abbott",
-          "sort": "Abbott, James",
-          "PID": "https://ancestors.familysearch.org/en/KWCT-ZFD",
-          "startDate": 1900,
-          "endDate": 1944
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12691291373592,
-                36.77228451231734
-              ],
-              [
-                -114.1275589257174,
-                36.77225105007058
-              ],
-              [
-                -114.12753472966598,
-                36.77175355446117
-              ],
-              [
-                -114.12689417572753,
-                36.77178050226753
-              ],
-              [
-                -114.12691291373592,
-                36.77228451231734
-              ]
+              -114.12691291373592,
+              36.77228451231734
+            ],
+            [
+              -114.1275589257174,
+              36.77225105007058
+            ],
+            [
+              -114.12753472966598,
+              36.77175355446117
+            ],
+            [
+              -114.12689417572753,
+              36.77178050226753
+            ],
+            [
+              -114.12691291373592,
+              36.77228451231734
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilbur Earl",
+        "sort": "Earl, Wilbur",
+        "PID": "https://ancestors.familysearch.org/en/KWN2-LTH",
+        "startDate": 1877,
+        "endDate": 1903
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Wilbur Earl",
-          "sort": "Earl, Wilbur",
-          "PID": "https://ancestors.familysearch.org/en/KWN2-LTH",
-          "startDate": 1877,
-          "endDate": 1903
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.1275806845222,
-                36.77273398160973
-              ],
-              [
-                -114.1281872466388,
-                36.77270236034974
-              ],
-              [
-                -114.12815516048286,
-                36.772228056259664
-              ],
-              [
-                -114.1275589221027,
-                36.772248959337716
-              ],
-              [
-                -114.1275806845222,
-                36.77273398160973
-              ]
+              -114.1275806845222,
+              36.77273398160973
+            ],
+            [
+              -114.1281872466388,
+              36.77270236034974
+            ],
+            [
+              -114.12815516048286,
+              36.772228056259664
+            ],
+            [
+              -114.1275589221027,
+              36.772248959337716
+            ],
+            [
+              -114.1275806845222,
+              36.77273398160973
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edward Bunker #2",
+        "sort": "Bunker, Edward #2",
+        "PID": "https://ancestors.familysearch.org/en/L2KL-TFV",
+        "startDate": 1877,
+        "endDate": 1901
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Edward Bunker #2",
-          "sort": "Bunker, Edward #2",
-          "PID": "https://ancestors.familysearch.org/en/L2KL-TFV",
-          "startDate": 1877,
-          "endDate": 1901
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.1275589257174,
-                36.77225105007058
-              ],
-              [
-                -114.12816036812066,
-                36.772228056259664
-              ],
-              [
-                -114.12814901082315,
-                36.771720405633985
-              ],
-              [
-                -114.12753732574718,
-                36.771755626911215
-              ],
-              [
-                -114.1275589257174,
-                36.77225105007058
-              ]
+              -114.1275589257174,
+              36.77225105007058
+            ],
+            [
+              -114.12816036812066,
+              36.772228056259664
+            ],
+            [
+              -114.12814901082315,
+              36.771720405633985
+            ],
+            [
+              -114.12753732574718,
+              36.771755626911215
+            ],
+            [
+              -114.1275589257174,
+              36.77225105007058
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alice Jones",
+        "sort": "Jones, Alice",
+        "PID": "https://ancestors.familysearch.org/en/KWXM-6FB",
+        "startDate": 1892,
+        "endDate": 1921
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Alice Jones",
-          "sort": "Jones, Alice",
-          "PID": "https://ancestors.familysearch.org/en/KWXM-6FB",
-          "startDate": 1892,
-          "endDate": 1921
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12758799672321,
-                36.772875906661
-              ],
-              [
-                -114.12762132816714,
-                36.77345531311789
-              ],
-              [
-                -114.12826209405597,
-                36.77340469417764
-              ],
-              [
-                -114.12821777565492,
-                36.77284249910872
-              ],
-              [
-                -114.12758799672321,
-                36.772875906661
-              ]
+              -114.12758799672321,
+              36.772875906661
+            ],
+            [
+              -114.12762132816714,
+              36.77345531311789
+            ],
+            [
+              -114.12826209405597,
+              36.77340469417764
+            ],
+            [
+              -114.12821777565492,
+              36.77284249910872
+            ],
+            [
+              -114.12758799672321,
+              36.772875906661
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hugh Bunker",
+        "sort": "Bunker, Hugh",
+        "PID": "https://ancestors.familysearch.org/en/KWZZ-NPQ",
+        "startDate": 1900,
+        "endDate": 1945
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Hugh Bunker",
-          "sort": "Bunker, Hugh",
-          "PID": "https://ancestors.familysearch.org/en/KWZZ-NPQ",
-          "startDate": 1900,
-          "endDate": 1945
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12836649682079,
-                36.77270001410237
-              ],
-              [
-                -114.12899995394348,
-                36.77266650739898
-              ],
-              [
-                -114.12895570839198,
-                36.77216420224252
-              ],
-              [
-                -114.12833789036559,
-                36.772222332224445
-              ],
-              [
-                -114.12836649682079,
-                36.77270001410237
-              ]
+              -114.12836649682079,
+              36.77270001410237
+            ],
+            [
+              -114.12899995394348,
+              36.77266650739898
+            ],
+            [
+              -114.12895570839198,
+              36.77216420224252
+            ],
+            [
+              -114.12833789036559,
+              36.772222332224445
+            ],
+            [
+              -114.12836649682079,
+              36.77270001410237
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edward Bunker #1",
+        "sort": "Bunker, Edward #1",
+        "PID": "https://ancestors.familysearch.org/en/L2KL-TFV",
+        "startDate": 1877,
+        "endDate": 1901
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Edward Bunker #1",
-          "sort": "Bunker, Edward #1",
-          "PID": "https://ancestors.familysearch.org/en/L2KL-TFV",
-          "startDate": 1877,
-          "endDate": 1901
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.1282914744558,
-                36.771554732664086
-              ],
-              [
-                -114.12894327211015,
-                36.77152540625754
-              ],
-              [
-                -114.12889414617581,
-                36.77103332425871
-              ],
-              [
-                -114.12826591307046,
-                36.771066550462464
-              ],
-              [
-                -114.1282914744558,
-                36.771554732664086
-              ]
+              -114.1282914744558,
+              36.771554732664086
+            ],
+            [
+              -114.12894327211015,
+              36.77152540625754
+            ],
+            [
+              -114.12889414617581,
+              36.77103332425871
+            ],
+            [
+              -114.12826591307046,
+              36.771066550462464
+            ],
+            [
+              -114.1282914744558,
+              36.771554732664086
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orange Leavitt #1",
+        "sort": "Leavitt, Orange #1",
+        "PID": "https://ancestors.familysearch.org/en/KWZW-14L",
+        "startDate": 1882,
+        "endDate": 1918
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Orange Leavitt #1",
-          "sort": "Leavitt, Orange #1",
-          "PID": "https://ancestors.familysearch.org/en/KWZW-14L",
-          "startDate": 1882,
-          "endDate": 1918
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.1282658998062,
-                36.771068627750836
-              ],
-              [
-                -114.12947527398772,
-                36.77099181904545
-              ],
-              [
-                -114.12944986967973,
-                36.770496131374344
-              ],
-              [
-                -114.12823548452599,
-                36.770570206168074
-              ],
-              [
-                -114.1282658998062,
-                36.771068627750836
-              ]
+              -114.1282658998062,
+              36.771068627750836
+            ],
+            [
+              -114.12947527398772,
+              36.77099181904545
+            ],
+            [
+              -114.12944986967973,
+              36.770496131374344
+            ],
+            [
+              -114.12823548452599,
+              36.770570206168074
+            ],
+            [
+              -114.1282658998062,
+              36.771068627750836
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conrad Naegle",
+        "sort": "Neagle, Conrad",
+        "PID": "https://ancestors.familysearch.org/en/KWVC-WGX",
+        "startDate": 1877,
+        "endDate": 1920
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Conrad Naegle",
-          "sort": "Neagle, Conrad",
-          "PID": "https://ancestors.familysearch.org/en/KWVC-WGX",
-          "startDate": 1877,
-          "endDate": 1920
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12824321902809,
-                36.77045074013054
-              ],
-              [
-                -114.12947462388321,
-                36.770394334929776
-              ],
-              [
-                -114.12943839985142,
-                36.769808560647675
-              ],
-              [
-                -114.12822104240024,
-                36.769878863707035
-              ],
-              [
-                -114.12824321902809,
-                36.77045074013054
-              ]
+              -114.12824321902809,
+              36.77045074013054
+            ],
+            [
+              -114.12947462388321,
+              36.770394334929776
+            ],
+            [
+              -114.12943839985142,
+              36.769808560647675
+            ],
+            [
+              -114.12822104240024,
+              36.769878863707035
+            ],
+            [
+              -114.12824321902809,
+              36.77045074013054
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joseph Hardy",
+        "sort": "Hardy, Joseph",
+        "PID": "https://ancestors.familysearch.org/en/KWZW-1HS",
+        "startDate": 1900,
+        "endDate": 1952
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Joseph Hardy",
-          "sort": "Hardy, Joseph",
-          "PID": "https://ancestors.familysearch.org/en/KWZW-1HS",
-          "startDate": 1900,
-          "endDate": 1952
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12822071822055,
-                36.769877209849355
-              ],
-              [
-                -114.1288480946376,
-                36.76984141367137
-              ],
-              [
-                -114.12881717211204,
-                36.7693572355126
-              ],
-              [
-                -114.12819769868112,
-                36.769388550146274
-              ],
-              [
-                -114.12822071822055,
-                36.769877209849355
-              ]
+              -114.12822071822055,
+              36.769877209849355
+            ],
+            [
+              -114.1288480946376,
+              36.76984141367137
+            ],
+            [
+              -114.12881717211204,
+              36.7693572355126
+            ],
+            [
+              -114.12819769868112,
+              36.769388550146274
+            ],
+            [
+              -114.12822071822055,
+              36.769877209849355
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heber Hardy",
+        "sort": "Hardy, Heber",
+        "PID": "https://ancestors.familysearch.org/en/KWZ4-YLF",
+        "startDate": 1890,
+        "endDate": 1928
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Heber Hardy",
-          "sort": "Hardy, Heber",
-          "PID": "https://ancestors.familysearch.org/en/KWZ4-YLF",
-          "startDate": 1890,
-          "endDate": 1928
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12798855696839,
-                36.769411045284755
-              ],
-              [
-                -114.1268091651201,
-                36.76945264640952
-              ],
-              [
-                -114.12679824695385,
-                36.76989551310945
-              ],
-              [
-                -114.12801867638117,
-                36.769826347910296
-              ],
-              [
-                -114.12798855696839,
-                36.769411045284755
-              ]
+              -114.12798855696839,
+              36.769411045284755
+            ],
+            [
+              -114.1268091651201,
+              36.76945264640952
+            ],
+            [
+              -114.12679824695385,
+              36.76989551310945
+            ],
+            [
+              -114.12801867638117,
+              36.769826347910296
+            ],
+            [
+              -114.12798855696839,
+              36.769411045284755
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orange Leavitt #2",
+        "sort": "Leavitt, Orange #2",
+        "PID": "https://ancestors.familysearch.org/en/KWZW-14L",
+        "startDate": 1882,
+        "endDate": 1918
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Orange Leavitt #2",
-          "sort": "Leavitt, Orange #2",
-          "PID": "https://ancestors.familysearch.org/en/KWZW-14L",
-          "startDate": 1882,
-          "endDate": 1918
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12680082577029,
-                36.769899707656734
-              ],
-              [
-                -114.12681917197848,
-                36.77026793769629
-              ],
-              [
-                -114.12805141506662,
-                36.770189883841496
-              ],
-              [
-                -114.12802129096414,
-                36.769828442583815
-              ],
-              [
-                -114.12680082577029,
-                36.769899707656734
-              ]
+              -114.12680082577029,
+              36.769899707656734
+            ],
+            [
+              -114.12681917197848,
+              36.77026793769629
+            ],
+            [
+              -114.12805141506662,
+              36.770189883841496
+            ],
+            [
+              -114.12802129096414,
+              36.769828442583815
+            ],
+            [
+              -114.12680082577029,
+              36.769899707656734
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas Leavitt",
+        "sort": "Leavitt, Thomas",
+        "PID": "https://ancestors.familysearch.org/en/KWCR-J55",
+        "startDate": 1877,
+        "endDate": 1933
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Thomas Leavitt",
-          "sort": "Leavitt, Thomas",
-          "PID": "https://ancestors.familysearch.org/en/KWCR-J55",
-          "startDate": 1877,
-          "endDate": 1933
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12687517953322,
-                36.77116185918719
-              ],
-              [
-                -114.12809101251406,
-                36.77109653393593
-              ],
-              [
-                -114.128052178284,
-                36.7705682791008
-              ],
-              [
-                -114.12684186877216,
-                36.77065180044208
-              ],
-              [
-                -114.12687517953322,
-                36.77116185918719
-              ]
+              -114.12687517953322,
+              36.77116185918719
+            ],
+            [
+              -114.12809101251406,
+              36.77109653393593
+            ],
+            [
+              -114.128052178284,
+              36.7705682791008
+            ],
+            [
+              -114.12684186877216,
+              36.77065180044208
+            ],
+            [
+              -114.12687517953322,
+              36.77116185918719
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas Adams",
+        "sort": "Adams, Thomas",
+        "PID": "https://ancestors.familysearch.org/en/KWC5-C9F",
+        "startDate": 1885,
+        "endDate": 1945
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Thomas Adams",
-          "sort": "Adams, Thomas",
-          "PID": "https://ancestors.familysearch.org/en/KWC5-C9F",
-          "startDate": 1885,
-          "endDate": 1945
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12750762784869,
-                36.771132494744975
-              ],
-              [
-                -114.12687470743552,
-                36.77116385386928
-              ],
-              [
-                -114.12690084774059,
-                36.7716194702419
-              ],
-              [
-                -114.12753108325762,
-                36.77157943094494
-              ],
-              [
-                -114.12750762784869,
-                36.771132494744975
-              ]
+              -114.12750762784869,
+              36.771132494744975
+            ],
+            [
+              -114.12687470743552,
+              36.77116385386928
+            ],
+            [
+              -114.12690084774059,
+              36.7716194702419
+            ],
+            [
+              -114.12753108325762,
+              36.77157943094494
+            ],
+            [
+              -114.12750762784869,
+              36.771132494744975
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Barnum #1",
+        "sort": "Barnum, James #1",
+        "PID": "https://ancestors.familysearch.org/en/KWZ7-DWK",
+        "startDate": 1900,
+        "endDate": 1944
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "James Barnum #1",
-          "sort": "Barnum, James #1",
-          "PID": "https://ancestors.familysearch.org/en/KWZ7-DWK",
-          "startDate": 1900,
-          "endDate": 1944
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.13036062794642,
-                36.771577049743954
-              ],
-              [
-                -114.12972647350432,
-                36.771614173450104
-              ],
-              [
-                -114.1297610280757,
-                36.772121405757375
-              ],
-              [
-                -114.1304079586925,
-                36.772075417559776
-              ],
-              [
-                -114.13036062794642,
-                36.771577049743954
-              ]
+              -114.13036062794642,
+              36.771577049743954
+            ],
+            [
+              -114.12972647350432,
+              36.771614173450104
+            ],
+            [
+              -114.1297610280757,
+              36.772121405757375
+            ],
+            [
+              -114.1304079586925,
+              36.772075417559776
+            ],
+            [
+              -114.13036062794642,
+              36.771577049743954
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Barnum #2",
+        "sort": "Barnum, James #2",
+        "PID": "https://ancestors.familysearch.org/en/KWZ7-DWK",
+        "startDate": 1900,
+        "endDate": 1944
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "James Barnum #2",
-          "sort": "Barnum, James #2",
-          "PID": "https://ancestors.familysearch.org/en/KWZ7-DWK",
-          "startDate": 1900,
-          "endDate": 1944
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12904185855967,
-                36.77327032404102
-              ],
-              [
-                -114.129646071301,
-                36.77323293355116
-              ],
-              [
-                -114.12960556206605,
-                36.7727742132363
-              ],
-              [
-                -114.12901023965705,
-                36.77282568388806
-              ],
-              [
-                -114.12904185855967,
-                36.77327032404102
-              ]
+              -114.12904185855967,
+              36.77327032404102
+            ],
+            [
+              -114.129646071301,
+              36.77323293355116
+            ],
+            [
+              -114.12960556206605,
+              36.7727742132363
+            ],
+            [
+              -114.12901023965705,
+              36.77282568388806
+            ],
+            [
+              -114.12904185855967,
+              36.77327032404102
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Leavitt",
+        "sort": "Leavitt, Albert",
+        "PID": "https://ancestors.familysearch.org/en/KWCK-2FD",
+        "startDate": 1900,
+        "endDate": 1969
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Albert Leavitt",
-          "sort": "Leavitt, Albert",
-          "PID": "https://ancestors.familysearch.org/en/KWCK-2FD",
-          "startDate": 1900,
-          "endDate": 1969
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12968565248401,
-                36.77037536888341
-              ],
-              [
-                -114.13043561940206,
-                36.77034667350428
-              ],
-              [
-                -114.13040597495133,
-                36.76975505491215
-              ],
-              [
-                -114.12965170785922,
-                36.769797774069346
-              ],
-              [
-                -114.12968565248401,
-                36.77037536888341
-              ]
+              -114.12968565248401,
+              36.77037536888341
+            ],
+            [
+              -114.13043561940206,
+              36.77034667350428
+            ],
+            [
+              -114.13040597495133,
+              36.76975505491215
+            ],
+            [
+              -114.12965170785922,
+              36.769797774069346
+            ],
+            [
+              -114.12968565248401,
+              36.77037536888341
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dudley Leavitt Jr.",
+        "sort": "Leavitt, Dudley Jr.",
+        "PID": "https://ancestors.familysearch.org/en/KWZ9-3L7",
+        "startDate": 1877,
+        "endDate": 1931
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Dudley Leavitt Jr.",
-          "sort": "Leavitt, Dudley Jr.",
-          "PID": "https://ancestors.familysearch.org/en/KWZ9-3L7",
-          "startDate": 1877,
-          "endDate": 1931
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.13016983061485,
-                36.76848112963529
-              ],
-              [
-                -114.12975048052017,
-                36.768049086258216
-              ],
-              [
-                -114.12919469218254,
-                36.76846402937785
-              ],
-              [
-                -114.12960293306926,
-                36.76888694321249
-              ],
-              [
-                -114.13016983061485,
-                36.76848112963529
-              ]
+              -114.13016983061485,
+              36.76848112963529
+            ],
+            [
+              -114.12975048052017,
+              36.768049086258216
+            ],
+            [
+              -114.12919469218254,
+              36.76846402937785
+            ],
+            [
+              -114.12960293306926,
+              36.76888694321249
+            ],
+            [
+              -114.13016983061485,
+              36.76848112963529
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alonzo Leavitt",
+        "sort": "Leavitt, Alonzo",
+        "PID": "https://ancestors.familysearch.org/en/KWCR-G6P",
+        "startDate": 1887,
+        "endDate": 1933
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Alonzo Leavitt",
-          "sort": "Leavitt, Alonzo",
-          "PID": "https://ancestors.familysearch.org/en/KWCR-G6P",
-          "startDate": 1887,
-          "endDate": 1933
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.13017635458719,
-                36.7684840989848
-              ],
-              [
-                -114.13077207435911,
-                36.768052378867765
-              ],
-              [
-                -114.13035631956097,
-                36.76763723457782
-              ],
-              [
-                -114.12974692017366,
-                36.76804667685586
-              ],
-              [
-                -114.13017635458719,
-                36.7684840989848
-              ]
+              -114.13017635458719,
+              36.7684840989848
+            ],
+            [
+              -114.13077207435911,
+              36.768052378867765
+            ],
+            [
+              -114.13035631956097,
+              36.76763723457782
+            ],
+            [
+              -114.12974692017366,
+              36.76804667685586
+            ],
+            [
+              -114.13017635458719,
+              36.7684840989848
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sadie Hansen",
+        "sort": "Hansen, Sadie",
+        "PID": "https://ancestors.familysearch.org/en/KWZ9-HXR",
+        "startDate": 1886,
+        "endDate": 1940
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Sadie Hansen",
-          "sort": "Hansen, Sadie",
-          "PID": "https://ancestors.familysearch.org/en/KWZ9-HXR",
-          "startDate": 1886,
-          "endDate": 1940
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.13077773454704,
-                36.76805801486485
-              ],
-              [
-                -114.13139449767299,
-                36.76764967873578
-              ],
-              [
-                -114.13092575144009,
-                36.76725198923802
-              ],
-              [
-                -114.13035923876924,
-                36.767643983005655
-              ],
-              [
-                -114.13077773454704,
-                36.76805801486485
-              ]
+              -114.13077773454704,
+              36.76805801486485
+            ],
+            [
+              -114.13139449767299,
+              36.76764967873578
+            ],
+            [
+              -114.13092575144009,
+              36.76725198923802
+            ],
+            [
+              -114.13035923876924,
+              36.767643983005655
+            ],
+            [
+              -114.13077773454704,
+              36.76805801486485
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wier Leavitt",
+        "sort": "Leavitt, Wier",
+        "PID": "https://ancestors.familysearch.org/en/K2MS-PL6",
+        "startDate": 1887,
+        "endDate": 1939
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Wier Leavitt",
-          "sort": "Leavitt, Wier",
-          "PID": "https://ancestors.familysearch.org/en/K2MS-PL6",
-          "startDate": 1887,
-          "endDate": 1939
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.13086665593298,
-                36.768158286286635
-              ],
-              [
-                -114.1313272936111,
-                36.76859526103418
-              ],
-              [
-                -114.13189134972973,
-                36.76822424964678
-              ],
-              [
-                -114.13142663185457,
-                36.76775797746551
-              ],
-              [
-                -114.13086665593298,
-                36.768158286286635
-              ]
+              -114.13086665593298,
+              36.768158286286635
+            ],
+            [
+              -114.1313272936111,
+              36.76859526103418
+            ],
+            [
+              -114.13189134972973,
+              36.76822424964678
+            ],
+            [
+              -114.13142663185457,
+              36.76775797746551
+            ],
+            [
+              -114.13086665593298,
+              36.768158286286635
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stephen Bunker",
+        "sort": "Bunker, Stephen",
+        "PID": "https://ancestors.familysearch.org/en/KWCK-XJ4",
+        "startDate": 1879,
+        "endDate": 1927
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Stephen Bunker",
-          "sort": "Bunker, Stephen",
-          "PID": "https://ancestors.familysearch.org/en/KWCK-XJ4",
-          "startDate": 1879,
-          "endDate": 1927
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12106717062917,
-                36.77324360511699
-              ],
-              [
-                -114.12028524319867,
-                36.77333066480121
-              ],
-              [
-                -114.12065689647824,
-                36.77422328669317
-              ],
-              [
-                -114.1210977206895,
-                36.774209219580484
-              ],
-              [
-                -114.12106717062917,
-                36.77324360511699
-              ]
+              -114.12106717062917,
+              36.77324360511699
+            ],
+            [
+              -114.12028524319867,
+              36.77333066480121
+            ],
+            [
+              -114.12065689647824,
+              36.77422328669317
+            ],
+            [
+              -114.1210977206895,
+              36.774209219580484
+            ],
+            [
+              -114.12106717062917,
+              36.77324360511699
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herbert Waite",
+        "sort": "Herbert, Waite",
+        "bioDB": "https://history.churchofjesuschrist.org/chd/individual/solon-foster-1811",
+        "PID": "https://ancestors.familysearch.org/en/KWZ3-N91",
+        "plat": "A",
+        "block": 9,
+        "startDate": 1892,
+        "endDate": 1948
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Herbert Waite",
-          "sort": "Herbert, Waite",
-          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/solon-foster-1811",
-          "PID": "https://ancestors.familysearch.org/en/KWZ3-N91",
-          "plat": "A",
-          "block": 9,
-          "startDate": 1892,
-          "endDate": 1948
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.12029022962854,
-                36.77333758512468
-              ],
-              [
-                -114.1197167393869,
-                36.773469844746444
-              ],
-              [
-                -114.1201144189551,
-                36.77436220039998
-              ],
-              [
-                -114.12065545332516,
-                36.774225176019144
-              ],
-              [
-                -114.12029022962854,
-                36.77333758512468
-              ]
+              -114.12029022962854,
+              36.77333758512468
+            ],
+            [
+              -114.1197167393869,
+              36.773469844746444
+            ],
+            [
+              -114.1201144189551,
+              36.77436220039998
+            ],
+            [
+              -114.12065545332516,
+              36.774225176019144
+            ],
+            [
+              -114.12029022962854,
+              36.77333758512468
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myron Abbott",
+        "sort": "Abbott, Myron",
+        "PID": "https://ancestors.familysearch.org/en/KWZ3-4PB",
+        "startDate": 1881,
+        "endDate": 1932
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Myron Abbott",
-          "sort": "Abbott, Myron",
-          "PID": "https://ancestors.familysearch.org/en/KWZ3-4PB",
-          "startDate": 1881,
-          "endDate": 1932
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.11971339622829,
-                36.77346898292231
-              ],
-              [
-                -114.11902332141905,
-                36.773632328338365
-              ],
-              [
-                -114.11945220706153,
-                36.77455864642964
-              ],
-              [
-                -114.1201147290208,
-                36.774369149522485
-              ],
-              [
-                -114.11971339622829,
-                36.77346898292231
-              ]
+              -114.11971339622829,
+              36.77346898292231
+            ],
+            [
+              -114.11902332141905,
+              36.773632328338365
+            ],
+            [
+              -114.11945220706153,
+              36.77455864642964
+            ],
+            [
+              -114.1201147290208,
+              36.774369149522485
+            ],
+            [
+              -114.11971339622829,
+              36.77346898292231
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nephi Hunt",
+        "sort": "Hunt, Nephi",
+        "PID": "https://ancestors.familysearch.org/en/KWCR-L8Q",
+        "startDate": 1898,
+        "endDate": 1920
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Nephi Hunt",
-          "sort": "Hunt, Nephi",
-          "PID": "https://ancestors.familysearch.org/en/KWCR-L8Q",
-          "startDate": 1898,
-          "endDate": 1920
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.1175619270114,
-                36.774782287604
-              ],
-              [
-                -114.11695397990677,
-                36.775307728466345
-              ],
-              [
-                -114.11761115862186,
-                36.77575193132688
-              ],
-              [
-                -114.11818417622337,
-                36.77527632862832
-              ],
-              [
-                -114.1175619270114,
-                36.774782287604
-              ]
+              -114.1175619270114,
+              36.774782287604
+            ],
+            [
+              -114.11695397990677,
+              36.775307728466345
+            ],
+            [
+              -114.11761115862186,
+              36.77575193132688
+            ],
+            [
+              -114.11818417622337,
+              36.77527632862832
+            ],
+            [
+              -114.1175619270114,
+              36.774782287604
             ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parley Hunt",
+        "sort": "Hunt, Parley",
+        "PID": "https://ancestors.familysearch.org/en/KWJ6-RK8",
+        "startDate": 1907,
+        "endDate": 1953,
+        "houseNum": 650,
+        "street": "Canal"
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Parley Hunt",
-          "sort": "Hunt, Parley",
-          "PID": "https://ancestors.familysearch.org/en/KWJ6-RK8",
-          "startDate": 1907,
-          "endDate": 1953,
-            "houseNum":650,
-            "street":"Canal"
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
               -114.11749221364572,
               36.77526742864737
             ],
@@ -1336,62 +1336,63 @@
               -114.11749221364572,
               36.77526742864737
             ]
-            ]
           ]
-        }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Susan Hunt",
+        "sort": "Hunt, Susan",
+        "PID": "https://ancestors.familysearch.org/en/KWNN-BZS",
+        "startDate": 1900,
+        "endDate": 1919
       },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "Susan Hunt",
-          "sort": "Hunt, Susan",
-          "PID": "https://ancestors.familysearch.org/en/KWNN-BZS",
-          "startDate": 1900,
-          "endDate": 1919
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
-                -114.11761987409773,
-                36.77575193132688
-              ],
-              [
-                -114.1182013202649,
-                36.776148927750285
-              ],
-              [
-                -114.11874379830142,
-                36.77570286161102
-              ],
-              [
-                -114.11818416006003,
-                36.77527284040222
-              ],
-              [
-                -114.11761987409773,
-                36.77575193132688
-              ]
+              -114.11761987409773,
+              36.77575193132688
+            ],
+            [
+              -114.1182013202649,
+              36.776148927750285
+            ],
+            [
+              -114.11874379830142,
+              36.77570286161102
+            ],
+            [
+              -114.11818416006003,
+              36.77527284040222
+            ],
+            [
+              -114.11761987409773,
+              36.77575193132688
             ]
           ]
-        },
-      {
-        "type": "Feature",
-        "properties": { 
-          "name": "",
-          "sort": "",
-          "PID": "https://ancestors.familysearch.org/en/",
-          "startDate": 1909,
-          "endDate": 1950,
-            "houseNum":660,
-            "street":"Canal"
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1909,
+        "endDate": 1950,
+        "houseNum": 660,
+        "street": "Canal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [
-              [
               -114.11705023733423,
               36.775661803939826
             ],
@@ -1411,10 +1412,9 @@
               -114.11705023733423,
               36.775661803939826
             ]
-            ]
           ]
-        }
+        ]
       }
-      }
-    ]
-  }
+    }
+]
+}
