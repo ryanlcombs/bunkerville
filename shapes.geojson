@@ -1380,11 +1380,970 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "474 E First South St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1910,
+        "endDate": 2025,
+        "houseNum": 474,
+        "cardinal": "E",
+        "street": "First South St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12154079705972,
+              36.77239300258816
+            ],
+            [
+              -114.12154079705972,
+              36.77228218966863
+            ],
+            [
+              -114.1213423603769,
+              36.77228218966863
+            ],
+            [
+              -114.1213423603769,
+              36.77239300258816
+            ],
+            [
+              -114.12154079705972,
+              36.77239300258816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "85 S First West St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1920,
+        "endDate": 2025,
+        "houseNum": 85,
+        "cardinal": "S",
+        "street": "First West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12865172125377,
+              36.77192856886812
+            ],
+            [
+              -114.12865172125377,
+              36.77182805672955
+            ],
+            [
+              -114.12841365070057,
+              36.77182805672955
+            ],
+            [
+              -114.12841365070057,
+              36.77192856886812
+            ],
+            [
+              -114.12865172125377,
+              36.77192856886812
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "90 S First West St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1925,
+        "endDate": 2025,
+        "houseNum": 90,
+        "cardinal": "S",
+        "street": "First West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12801984657095,
+              36.771963263838714
+            ],
+            [
+              -114.12801984657095,
+              36.771835233457324
+            ],
+            [
+              -114.127804293702,
+              36.771835233457324
+            ],
+            [
+              -114.127804293702,
+              36.771963263838714
+            ],
+            [
+              -114.12801984657095,
+              36.771963263838714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "121 S First West St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1935,
+        "endDate": 2025,
+        "houseNum": 121,
+        "cardinal": "S",
+        "street": "First West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12873578418221,
+              36.77137529879175
+            ],
+            [
+              -114.12873578418221,
+              36.77117618718137
+            ],
+            [
+              -114.12841664449712,
+              36.77117618718137
+            ],
+            [
+              -114.12841664449712,
+              36.77137529879175
+            ],
+            [
+              -114.12873578418221,
+              36.77137529879175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas D. Leavitt and Mary Luella Abbott",
+        "sort": "Leavitt, Thomas D.",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1901,
+        "endDate": 2025,
+        "houseNum": 160,
+        "cardinal": "S",
+        "street": "First West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12798422139406,
+              36.77083677873429
+            ],
+            [
+              -114.12798422139406,
+              36.7707228758496
+            ],
+            [
+              -114.12782513770348,
+              36.7707228758496
+            ],
+            [
+              -114.12782513770348,
+              36.77083677873429
+            ],
+            [
+              -114.12798422139406,
+              36.77083677873429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "188 S First West St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1936,
+        "endDate": 2025,
+        "houseNum": 188,
+        "cardinal": "S",
+        "street": "First West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12798650599677,
+              36.77124916535065
+            ],
+            [
+              -114.12798650599677,
+              36.771127606820684
+            ],
+            [
+              -114.127800995008,
+              36.771127606820684
+            ],
+            [
+              -114.127800995008,
+              36.77124916535065
+            ],
+            [
+              -114.12798650599677,
+              36.77124916535065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "215 S First West St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1901,
+        "endDate": 2025,
+        "houseNum": 215,
+        "cardinal": "S",
+        "street": "First West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12853078119454,
+              36.77005845223556
+            ],
+            [
+              -114.12853078119454,
+              36.769946902737075
+            ],
+            [
+              -114.12833661377594,
+              36.769946902737075
+            ],
+            [
+              -114.12833661377594,
+              36.77005845223556
+            ],
+            [
+              -114.12853078119454,
+              36.77005845223556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "237 S First West St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1941,
+        "endDate": 2025,
+        "houseNum": 237,
+        "cardinal": "S",
+        "street": "First West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12852443738677,
+              36.76979035461086
+            ],
+            [
+              -114.12852443738677,
+              36.76959605700554
+            ],
+            [
+              -114.12833584218127,
+              36.76959605700554
+            ],
+            [
+              -114.12833584218127,
+              36.76979035461086
+            ],
+            [
+              -114.12852443738677,
+              36.76979035461086
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heber Hardy",
+        "sort": "Hardy, Heber",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1901,
+        "endDate": 2025,
+        "houseNum": 244,
+        "cardinal": "S",
+        "street": "First West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12852443738677,
+              36.76979035461086
+            ],
+            [
+              -114.12852443738677,
+              36.76959605700554
+            ],
+            [
+              -114.12833584218127,
+              36.76959605700554
+            ],
+            [
+              -114.12833584218127,
+              36.76979035461086
+            ],
+            [
+              -114.12852443738677,
+              36.76979035461086
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "47 S Main St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1911,
+        "endDate": 2025,
+        "houseNum": 47,
+        "cardinal": "S",
+        "street": "Main St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12715037286027,
+              36.772434726969365
+            ],
+            [
+              -114.12715037286027,
+              36.77231852614685
+            ],
+            [
+              -114.12696082287508,
+              36.77231852614685
+            ],
+            [
+              -114.12696082287508,
+              36.772434726969365
+            ],
+            [
+              -114.12715037286027,
+              36.772434726969365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "120 S Main St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1920,
+        "endDate": 2025,
+        "houseNum": 120,
+        "cardinal": "S",
+        "street": "Main St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12664959811075,
+              36.77158065341004
+            ],
+            [
+              -114.12664959811075,
+              36.77145405696447
+            ],
+            [
+              -114.12654928066408,
+              36.77145405696447
+            ],
+            [
+              -114.12654928066408,
+              36.77158065341004
+            ],
+            [
+              -114.12664959811075,
+              36.77158065341004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20 Middle Ln",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1931,
+        "endDate": 2025,
+        "houseNum": 20,
+        "street": "Middle Ln"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12406718119128,
+              36.77277407195301
+            ],
+            [
+              -114.12406718119128,
+              36.77258614022348
+            ],
+            [
+              -114.12390989384666,
+              36.77258614022348
+            ],
+            [
+              -114.12390989384666,
+              36.77277407195301
+            ],
+            [
+              -114.12406718119128,
+              36.77277407195301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas D. Leavitt and Adah Ann Waite",
+        "sort": "Leavitt, Thomas D.",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1901,
+        "endDate": 2025,
+        "houseNum": 175,
+        "cardinal": "",
+        "street": "Main St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12717447402393,
+              36.77088350359277
+            ],
+            [
+              -114.12717447402393,
+              36.77069931677296
+            ],
+            [
+              -114.12695388121365,
+              36.77069931677296
+            ],
+            [
+              -114.12695388121365,
+              36.77088350359277
+            ],
+            [
+              -114.12717447402393,
+              36.77088350359277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "128 W Second South St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1931,
+        "endDate": 2024,
+        "houseNum": 128,
+        "cardinal": "W",
+        "street": "Second South St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12849393704509,
+              36.77089188744054
+            ],
+            [
+              -114.12849393704509,
+              36.77075942341676
+            ],
+            [
+              -114.12835584303143,
+              36.77075942341676
+            ],
+            [
+              -114.12835584303143,
+              36.77089188744054
+            ],
+            [
+              -114.12849393704509,
+              36.77089188744054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "165 S Second West St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1939,
+        "endDate": 2024,
+        "houseNum": 165,
+        "cardinal": "S",
+        "street": "Second West St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12999704553003,
+              36.77080441707797
+            ],
+            [
+              -114.12999704553003,
+              36.770689039005745
+            ],
+            [
+              -114.12978107592521,
+              36.770689039005745
+            ],
+            [
+              -114.12978107592521,
+              36.77080441707797
+            ],
+            [
+              -114.12999704553003,
+              36.77080441707797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "30 E Virgin St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1926,
+        "endDate": 2024,
+        "houseNum": 30,
+        "cardinal": "E",
+        "street": "Virgin St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12668669330347,
+              36.77322785690386
+            ],
+            [
+              -114.12668669330347,
+              36.773046547908876
+            ],
+            [
+              -114.12655944404956,
+              36.773046547908876
+            ],
+            [
+              -114.12655944404956,
+              36.77322785690386
+            ],
+            [
+              -114.12668669330347,
+              36.77322785690386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "35 E Virgin St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1920,
+        "endDate": 2024,
+        "houseNum": 35,
+        "cardinal": "E",
+        "street": "Virgin St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12662553087763,
+              36.772581344341276
+            ],
+            [
+              -114.12662553087763,
+              36.77248393116852
+            ],
+            [
+              -114.12650703747791,
+              36.77248393116852
+            ],
+            [
+              -114.12650703747791,
+              36.772581344341276
+            ],
+            [
+              -114.12662553087763,
+              36.772581344341276
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "70 E Virgin St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1926,
+        "endDate": 2024,
+        "houseNum": 70,
+        "cardinal": "E",
+        "street": "Virgin St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12609870662898,
+              36.77320537912671
+            ],
+            [
+              -114.12609870662898,
+              36.77307321418424
+            ],
+            [
+              -114.1259553008456,
+              36.77307321418424
+            ],
+            [
+              -114.1259553008456,
+              36.77320537912671
+            ],
+            [
+              -114.12609870662898,
+              36.77320537912671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "75 E Virgin St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1901,
+        "endDate": 2024,
+        "houseNum": 75,
+        "cardinal": "E",
+        "street": "Virgin St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12615221576633,
+              36.77270800247959
+            ],
+            [
+              -114.12615221576633,
+              36.77259182774408
+            ],
+            [
+              -114.12597223136463,
+              36.77259182774408
+            ],
+            [
+              -114.12597223136463,
+              36.77270800247959
+            ],
+            [
+              -114.12615221576633,
+              36.77270800247959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "80 E Virgin St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1926,
+        "endDate": 2024,
+        "houseNum": 80,
+        "cardinal": "E",
+        "street": "Virgin St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12591457008081,
+              36.77324075257991
+            ],
+            [
+              -114.12591457008081,
+              36.77307839861936
+            ],
+            [
+              -114.12579919492836,
+              36.77307839861936
+            ],
+            [
+              -114.12579919492836,
+              36.77324075257991
+            ],
+            [
+              -114.12591457008081,
+              36.77324075257991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "95 E Virgin St",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1926,
+        "endDate": 2024,
+        "houseNum": 95,
+        "cardinal": "E",
+        "street": "Virgin St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12555402934109,
+              36.772732862677174
+            ],
+            [
+              -114.12555402934109,
+              36.77259526182968
+            ],
+            [
+              -114.1253276650052,
+              36.77259526182968
+            ],
+            [
+              -114.1253276650052,
+              36.772732862677174
+            ],
+            [
+              -114.12555402934109,
+              36.772732862677174
+            ]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "name": "Roy Waite Store",
+        "sort": "",
+        "PID": "https://ancestors.familysearch.org/en/",
+        "startDate": 1926,
+        "endDate": 2024,
+        "houseNum": 140,
+        "cardinal": "",
+        "street": "Main St"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.12656375927796,
+              36.77133955034596
+            ],
+            [
+              -114.12656375927796,
+              36.7711888703987
+            ],
+            [
+              -114.12637284435941,
+              36.7711888703987
+            ],
+            [
+              -114.12637284435941,
+              36.77133955034596
+            ],
+            [
+              -114.12656375927796,
+              36.77133955034596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+       "type": "Feature",
+       "properties": {
+         "name": "Thomas Henry Adams and Mary Neagle",
+         "sort": "Adams, Thomas Henry",
+         "PID": "https://ancestors.familysearch.org/en/",
+         "startDate": 1877,
+         "endDate": 2024,
+         "houseNum": 15,
+         "cardinal": "W",
+         "street": "First South St"
+       },
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+            [
+              -114.12713369638881,
+              36.77152621300951
+            ],
+            [
+              -114.12713369638881,
+              36.77140027188793
+            ],
+            [
+              -114.12696804962125,
+              36.77140027188793
+            ],
+            [
+              -114.12696804962125,
+              36.77152621300951
+            ],
+            [
+              -114.12713369638881,
+              36.77152621300951
+            ]
+           ]
+         ]
+       }
+     },
+     {
+        "type": "Feature",
+        "properties": {
+          "name": "James Smith Abbott and Cloe Estella Robinson",
+          "sort": "Abbott, James Smith",
+          "PID": "https://ancestors.familysearch.org/en/",
+          "startDate": 1877,
+          "endDate": 2024,
+          "houseNum": 22,
+          "cardinal": "W",
+          "street": "First South St"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -114.12719265549433,
+                36.77207270520884
+              ],
+              [
+                -114.12719265549433,
+                36.77195126285352
+              ],
+              [
+                -114.1270410465884,
+                36.77195126285352
+              ],
+              [
+                -114.1270410465884,
+                36.77207270520884
+              ],
+              [
+                -114.12719265549433,
+                36.77207270520884
+              ]
+            ]
+          ]
+        }
+      },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "660 Canal St",
         "sort": "",
         "PID": "https://ancestors.familysearch.org/en/",
         "startDate": 1909,
-        "endDate": 1950,
+        "endDate": 2025,
         "houseNum": 660,
         "street": "Canal"
       },
